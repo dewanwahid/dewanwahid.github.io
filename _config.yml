@@ -77,7 +77,7 @@ content:
     content:
       - layout: left
         title: Loblaw Companies Ltd.
-        link: loblaw.ca
+        # link: loblaw.ca
         # link_text: boringcompany.com
         sub_title: Data Scientist
         caption: January 2023 - Present
@@ -90,6 +90,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        # McMaster
         title: McMaster University
         caption: Graduated in 2023
         sub_title: Ph.D. in Computational Science and Engineering
@@ -99,10 +100,7 @@ content:
           During my time at McMaster I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
+        # UBC
         title: University of British Columbia
         caption: Graduated in 2023
         sub_title: Ph.D. in Computational Science and Engineering
