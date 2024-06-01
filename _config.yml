@@ -78,7 +78,7 @@ about_content: | # this will include new lines to allow paragraphs
       - layout: left
         title: Loblaw Companies Ltd.
         # link: loblaw.ca
-        # link_text: boringcompany.com
+        # link_text: loblaw.ca
         sub_title: Data Scientist
         caption: January 2023 - Present
         quote: >
@@ -90,8 +90,8 @@ about_content: | # this will include new lines to allow paragraphs
     # content:
       # - layout: left
         title: FreshBooks Inc.
-        # link: loblaw.ca
-        # link_text: boringcompany.com
+        # link: freshbooks.com
+        # link_text: freshbooks.com
         sub_title: Data Scientist (MITACS Intern)
         caption: September 2019 - July 2022
         quote: >
