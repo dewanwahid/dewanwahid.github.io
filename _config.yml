@@ -52,7 +52,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Dewan and I'm a Data Scientist with 3+ years of industrial experience in analyzing data mining, action-oriented ML models designing and delivering data-driven solutions to complex business problems. 
 
-content:
+# content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
   #   content:
