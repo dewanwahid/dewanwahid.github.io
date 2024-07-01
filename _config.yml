@@ -49,7 +49,7 @@ linkedin_username: dewan-wahid
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dewan and I'm a Data Scientist with 3+ years of industrial experience in analyzing data mining, action-oriented ML models designing and delivering data-driven solutions to complex business problems. 
+  Hi, my name's Dewan and I'm a Data Scientist with 3+ years of industrial experience in analyzing data, designing action-oriented ML models and delivering data-driven solutions to complex business problems. 
 
 
 content:
@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: My ongoing project
+        title: Learning Quantum Computing from Scratch
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -70,7 +70,9 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          (coming soon!)
+          I am currently learning quantum computing from scratch using the book "Quantum Computing for Programmers" by Robert Hundt. I believe that understanding how to design algorithms for quantum computing will be crucial in the near future. I am passionate about learning and applying this cutting-edge technology to solve complex problems.
+
+          ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Quantum Computing for Programmers by Robert Hundt")
 
 ############# PROFESSIONAL EXPERIENCE ######################
   - title: Professional Experience # Title for the section
@@ -90,7 +92,7 @@ content:
 
 
 
-############# PROFESSIONAL EXPERIENCE ######################
+############# EDUCATION ####################################
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
