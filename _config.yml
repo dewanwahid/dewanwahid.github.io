@@ -57,7 +57,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Quantum Computing from Scratch
+        title: Learing Programming in Quantum Computing Environmnet from Scratch
         link: github.com/dewanwahid
         # link_text: Project Website
         additional_links:
