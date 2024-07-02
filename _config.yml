@@ -71,6 +71,7 @@ content:
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I am currently learning quantum computing from scratch using a book by Robert Hundt. Understanding how to design algorithms for quantum computing will be crucial in the near future. I am passionate about learning and applying this cutting-edge technology to solve complex problems.
+          
           ![Quantum Computing for Programmers](https://github.com/dewanwahid/dewanwahid.github.io/blob/main/images/quntum_book.jpg)
 
 ############# PROFESSIONAL EXPERIENCE ######################
