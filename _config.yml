@@ -76,7 +76,7 @@ content:
           I will document my journey in the above git project.
 
       - layout: top-middle
-        link: ![Quantum Computing for Programmers by Robert Hundt](./quntum_book_new.jpg "Quantum Computing for Programmers by Robert Hundt")
+        title: ![Quantum Computing for Programmers by Robert Hundt](./quntum_book_new.jpg "Quantum Computing for Programmers by Robert Hundt")
 
 
 
