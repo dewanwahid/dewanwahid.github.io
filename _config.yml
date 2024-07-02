@@ -80,6 +80,30 @@ content:
 
           ![Quantum Computing for Programmers by Robert Hundt](./quntum_book_new.jpg "Quantum Computing for Programmers by Robert Hundt")
 
+
+content:
+  - title: Current Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Learing Programming in Quantum Computing Environmnet from Scratch
+        link: github.com/dewanwahid
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/dewanwahid
+            icon: fab fa-github
+            url: github.com/dewanwahid
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I am currently learning quantum computing from scratch using the book ["Quantum Computing for Programmers" by Robert Hundt](https://www.cambridge.org/core/books/quantum-computing-for-programmers/BA1C887BE4AC0D0D5653E71FFBEF61C6). 
+          Understanding how to design algorithms for quantum computing will be crucial in the near future. 
+          I am passionate about learning and applying this cutting-edge technology to solve complex problems.
+          I will document my journey in the above git project.
+
+          ![Quantum Computing for Programmers by Robert Hundt](./quntum_book_new.jpg  "Quantum Computing for Programmers by Robert Hundt")
+
+
 ############# PROFESSIONAL EXPERIENCE ######################
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text)
