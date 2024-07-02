@@ -95,6 +95,18 @@ content:
             (coming soon!)
 
 
+      - layout: left
+        title: Freshbooks Inc.
+        link: freshbooks.com
+        # link_text: boringcompany.com
+        sub_title: Data Scientist (Mitacs Fellowship Intern)
+        caption: September 2019 - July 2022
+        quote: >
+          "The best way to predict the future is to create it." - Peter Drucker 
+        description: | # this will include new lines to allow paragraphs
+            (coming soon!)
+
+
 
 
 ############# EDUCATION ####################################
