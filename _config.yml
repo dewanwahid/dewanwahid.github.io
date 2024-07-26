@@ -49,7 +49,9 @@ linkedin_username: dewan-wahid
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Dewan and I'm a Data Scientist with 3+ years of industrial experience in analyzing data, designing action-oriented ML models and delivering data-driven solutions to complex business problems. 
+  Hi, my name's Dewan and I'm a professional Data Scientist with 3+ years of industrial experience focused on analyzing data, desiging action-oriented ML models, and delivering data-driven solutions to complex business problems. 
+  I have solid academic and practical backgrounds in large-scale optimization, operations research, and network sciences.
+
 
 
 content:
