@@ -137,7 +137,7 @@ content:
           (coming soon!)
       
       - layout: left
-        title: University of Chittagon
+        title: University of Chittagong
         caption: Graduated in 2010
         sub_title: M.S. in Mathematics
         # quote: >
@@ -146,13 +146,16 @@ content:
           (coming soon!)
       
       - layout: left
-        title: University of British Columbia
+        title: University of Chittagong
         caption: Graduated in 2009
         sub_title: B.Sc. in Mathematics
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          (coming soon!)
+          I graduated with a bachelor's degree in pure mathematics, specializing in fundamental analysis, 
+          group theory, and numerical analysis. These areas of study have helped me refine my 
+          analytical and logical skills, which I utilize to solve complex problems in diverse 
+          professional environments.
 
 
   - title: A Little More About Me
