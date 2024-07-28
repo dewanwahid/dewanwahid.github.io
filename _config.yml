@@ -126,7 +126,7 @@ content:
             "Thesis: Big Data Clustering - Models and Applications"
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          Thesis: [Big Data Clustering - Models and Applications](https://macsphere.mcmaster.ca/bitstream/11375/28504/2/Wahid_Dewan_F_202305_PhD.pdf)
+          **Thesis:** [Big Data Clustering - Models and Applications](https://macsphere.mcmaster.ca/bitstream/11375/28504/2/Wahid_Dewan_F_202305_PhD.pdf)
 
           As part of the [MiSCAN](https://miscan.mcmaster.ca) lab under Professor Elkafi Hassini, my primary research focus was designing heuristic 
           clustering algorithms to identify communities in large-scale empirical networks. 
