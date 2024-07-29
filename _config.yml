@@ -122,13 +122,13 @@ content:
         title: McMaster University
         caption: Graduated in 2023
         sub_title: Ph.D. in Computational Science and Engineering
-        quote: >  
-            "Thesis: Big Data Clustering - Models and Applications"
+        # quote: >  
+        #     "Thesis: Big Data Clustering - Models and Applications"
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          **Thesis:** [Big Data Clustering - Models and Applications](https://macsphere.mcmaster.ca/bitstream/11375/28504/2/Wahid_Dewan_F_202305_PhD.pdf)
+          **Thesis:** [Big Data Clustering - Models and Applications](https://macsphere.mcmaster.ca/handle/11375/28504)
 
-          As part of the [MiSCAN](https://miscan.mcmaster.ca) lab under Professor Elkafi Hassini, my primary research focus was designing heuristic 
+          As part of the [MiSCAN](https://miscan.mcmaster.ca) lab and [Professor Elkafi Hassini](https://research.degroote.mcmaster.ca/profiles/profile/?user=hassini)'s research team, my primary research focus was designing heuristic 
           clustering algorithms to identify communities in large-scale empirical networks. 
           During my Ph.D., I had the privilege of receiving three [Mitacs Accelerate Fellowships](https://www.mitacs.ca/our-programs/accelerate-fellowship-students-postdocs) 
           and working with [FreshBooks Inc.](https://www.freshbooks.com) to solve complex business problems. 
@@ -142,8 +142,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          (coming soon!)
-      
+          **Thesis:** [Random models and heuristic algorithms for correlation clustering problems on signed social networks](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0347257)
+
+
       - layout: left
         title: University of Chittagong
         caption: Graduated in 2010
