@@ -144,6 +144,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Thesis:** [Random models and heuristic algorithms for correlation clustering problems on signed social networks](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0347257)
 
+          At UBC, under [Professor Yong Gao](https://cmps.ok.ubc.ca/about/contact/yong-gao/)'s supervision, my research focused on designing random models 
+          and analyzing signed-directed social networks. 
+
+
 
       - layout: left
         title: University of Chittagong
