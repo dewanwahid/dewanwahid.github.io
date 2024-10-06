@@ -109,7 +109,13 @@ content:
         quote: >
           "We can't solve problems by using the same kind of thinking we used when we created them." - Albert Einstein (Theoretical Physicist)
         description: | # this will include new lines to allow paragraphs
-            (coming soon!)
+          I was awarded three consecutive [Mitacs Accelerate Fellowships](https://www.mitacs.ca/our-programs/accelerate-fellowship-professors/), 
+          totaling three years, to collaborate with FreshBooks. 
+          
+          As a Data Scientist (PhD Intern), I conducted in-depth data analysis, developed models to enhance data efficiency, 
+          and provided valuable customer insights to guide decision-making. I also designed and implemented fraud detection 
+          and invoice categorization frameworks to optimize organizational processes.
+
 
 
 
@@ -186,9 +192,38 @@ content:
     #   Look at this cool image  
     #   ![Trees](./quntum_book.jpg "Trees")
 
+
+
+
+############# RESEARCH EXPR ####################################
+  - title: Reseach Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Signed directed random network models
+        link: github.com/dewanwahid/random_signed_network
+        # link_text: Project Website
+        additional_links:
+          - title:  github.com/dewanwahid/random_signed_network
+            icon: fab fa-github
+            url: github.com/dewanwahid/random_signed_network
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+
+        description: | # this will include new lines to allow paragraphs
+          (coming soon!)
+  
+
+
+
+
+
+# ---------- Not after this point
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
+
 
 # Build settings
 remote_theme: sproogen/resume-theme
