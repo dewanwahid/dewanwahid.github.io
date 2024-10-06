@@ -205,12 +205,13 @@ content:
         title: Signed directed random network models
         link: github.com/dewanwahid/random_signed_network
         link_text: [Code]
-        link: open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0347257
-        link_text: [Paper]
+
+        # link: open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0347257
+        # link_text: [Paper]
         additional_links:
-          - title:  Code
-            icon: fab fa-github
-            url: github.com/dewanwahid/random_signed_network
+          # - title:  Code
+          #   icon: fab fa-github
+          #   url: github.com/dewanwahid/random_signed_network
 
           - title: Paper
             icon: fab fa-file-pdf
