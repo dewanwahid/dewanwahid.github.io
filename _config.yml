@@ -203,7 +203,7 @@ content:
 
       - layout: top-middle
         title: Signed directed random network models
-        sub_title: [Code](https://github.com/dewanwahid/random_signed_network)
+        link: github.com/dewanwahid/random_signed_network
         # link: [Paper](https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0347257)
         link_text: Code
         additional_links:
