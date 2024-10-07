@@ -216,14 +216,20 @@ content:
             url: github.com/dewanwahid/random_signed_network
           - title: Paper  
             icon: fab fa-file-pdf 
-            url: https://open.library.ubc.ca/media/download/pdf/24/1.0347257/4
+            url: open.library.ubc.ca/media/download/pdf/24/1.0347257/4
 
         description: | 
           (coming soon!)
   
 
 
+############# Publications ####################################
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
 
+    items:
+      - item 1 
+      - item 2
 
 
 # ---------- Not after this point
