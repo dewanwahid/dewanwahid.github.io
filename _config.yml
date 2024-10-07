@@ -157,27 +157,31 @@ content:
 
       - layout: left
         title: University of Chittagong
-        caption: Graduated in 2010
+        caption: Graduated in 2009 & 2010
         sub_title: B.Sc. (Honours) & M.S. in Pure Mathematics 
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           **Thesis:** [A Solution Procedure for Minimum Convex-Cost Network Flow Problems](https://arxiv.org/pdf/1210.7260)
 
-          I obtained an one year M.S. degree concentrated in pure mathematics and mathematical optimization. 
-      
-      - layout: left
-        title: University of Chittagong
-        caption: Graduated in 2009
-        sub_title: B.Sc. in Mathematics
-        # quote: >
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
           In addition to exploring the beautiful and hilly campus of the University of Chittagong, 
-          I graduated with a bachelor’s degree in pure mathematics, specializing in fundamental analysis and 
+          I graduated with a B.Sc. (with Honours) and M.S. (Thesis) in pure mathematics, specializing in operations research, fundamental analysis and 
           numerical analysis. These areas of study have helped me refine my analytical 
           and logical skills, which I utilize to solve complex problems in diverse professional 
           environments.
+      
+      # - layout: left
+      #   title: University of Chittagong
+      #   caption: Graduated in 2009
+      #   sub_title: B.Sc. in Mathematics
+      #   # quote: >
+      #   #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      #   description: | # this will include new lines to allow paragraphs
+      #     In addition to exploring the beautiful and hilly campus of the University of Chittagong, 
+      #     I graduated with a B.Sc. (with Honours) and M.S. (Thesis) in pure mathematics, specializing in fundamental analysis and 
+      #     numerical analysis. These areas of study have helped me refine my analytical 
+      #     and logical skills, which I utilize to solve complex problems in diverse professional 
+      #     environments.
 
 
   # - title: A Little More About Me
