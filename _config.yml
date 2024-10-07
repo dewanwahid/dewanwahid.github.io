@@ -227,8 +227,11 @@ content:
     layout: list # Type of content section (list/text)
 
     items:
-      - item 1 
-      - item 2
+      - Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. [Availabe Online](https://doi.org/10.1007/s10489-023-05223-x)
+      - Wahid, D. F., & Hassini, E. (2023). User-generated short-text classification using cograph editing-based network clustering with an application in invoice categorization. Data & Knowledge Engineering; 148. [Available Online.](https://doi.org/10.1016/j.datak.2023.102238)
+
+
+
 
 
 # ---------- Not after this point
