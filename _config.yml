@@ -214,9 +214,9 @@ content:
           - title:  Code
             icon: fab fa-github
             url: github.com/dewanwahid/random_signed_network
-          - title: Paper  
-            icon: fab fa-file-pdf 
-            url: open.library.ubc.ca/media/download/pdf/24/1.0347257/4
+          # - title: Paper  
+          #   icon: fab fa-file-pdf 
+          #   url: open.library.ubc.ca/media/download/pdf/24/1.0347257/4
 
         description: | 
           (coming soon!)
