@@ -92,7 +92,7 @@ content:
         sub_title: Data Scientist at Marketing Analytics Team
         caption: January 2023 - Present
         quote: >
-          "Half the money I spend on advertising is wasted; the problem is I don't know which half." - John Wanamaker (Retail Pioneer)
+            "Half the money I spend on advertising is wasted; the problem is I don't know which half." - John Wanamaker (Retail Pioneer)
         description: | # this will include new lines to allow paragraphs
             In my role as a Data Scientist in the Market Analytics team, I excelled in crafting targeted 
             campaign frameworks aimed at achieving maximum return on investment (ROI). Furthermore, 
@@ -107,14 +107,14 @@ content:
         sub_title: Data Scientist (Mitacs Fellowship Intern)
         caption: September 2019 - July 2022
         quote: >
-          "We can't solve problems by using the same kind of thinking we used when we created them." - Albert Einstein (Theoretical Physicist)
+            "We can't solve problems by using the same kind of thinking we used when we created them." - Albert Einstein (Theoretical Physicist)
         description: | # this will include new lines to allow paragraphs
-          I was awarded three consecutive [Mitacs Accelerate Fellowships](https://www.mitacs.ca/our-programs/accelerate-fellowship-professors/), 
-          totaling three years, to collaborate with FreshBooks. 
-          
-          As a Data Scientist (PhD Intern), I conducted in-depth data analysis, developed models to enhance data efficiency, 
-          and provided valuable customer insights to guide decision-making. I also designed and implemented fraud detection 
-          and invoice categorization frameworks to optimize organizational processes.
+            I was awarded three consecutive [Mitacs Accelerate Fellowships](https://www.mitacs.ca/our-programs/accelerate-fellowship-professors/), 
+            totaling three years, to collaborate with FreshBooks. 
+            
+            As a Data Scientist (PhD Intern), I conducted in-depth data analysis, developed models to enhance data efficiency, 
+            and provided valuable customer insights to guide decision-making. I also designed and implemented fraud detection 
+            and invoice categorization frameworks to optimize organizational processes.
 
 
 
@@ -225,6 +225,7 @@ content:
 ############# Publications ####################################
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
+    content:
 
     items:
       - Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. [Availabe Online](https://doi.org/10.1007/s10489-023-05223-x)
