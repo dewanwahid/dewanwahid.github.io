@@ -202,8 +202,7 @@ content:
 ############# RESEARCH EXPR ####################################
   - title: Reseach Projects # Title for the section
     layout: list # Type of content section (list/text)
-    # content:
-
+    content:
 
       - layout: top-middle
         title: Signed Directed Random Network Models
