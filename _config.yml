@@ -227,9 +227,10 @@ content:
     layout: text # Type of content section (list/text)
     content:  # Indent content one level further
 
-    items:
-      - item1: value 1
-      - item2: value 2
+    description:
+      items:
+        - item1: value 1
+        - item2: value 2
 
 
 # ---------- Not after this point
