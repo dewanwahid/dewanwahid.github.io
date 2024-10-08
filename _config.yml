@@ -224,8 +224,8 @@ content:
 
 ############# Publications ####################################
   - title: Publications # Title for the section
-    # layout: text # Type of content section (list/text)
-    # content:  # Indent content one level further
+    layout: text # Type of content section (list/text)
+    content:  # Indent content one level further
 
     items:
       - item1: value 1
