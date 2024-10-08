@@ -229,8 +229,8 @@ content:
 
     description:
       items:
-        - item1: value 1
-        - item2: value 2
+        - item 1: value 1
+        - item 2: value 2
 
 
 # ---------- Not after this point
