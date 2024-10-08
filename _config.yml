@@ -224,13 +224,29 @@ content:
 
 ############# Publications ####################################
   - title: Publications # Title for the section
-    layout: text # Type of content section (list/text)
-    content:  # Indent content one level further
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        # title: McMaster University
+        caption: 2024
+        # sub_title: Ph.D. in Computational Science and Engineering
+        # quote: >  
+        #     "Thesis: Big Data Clustering - Models and Applications"
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. 54(2). 1297-1310.
+          
+          **Abstract:** In this era of e-commerce, many companies are moving towards subscription-based invoicing platforms to maintain their 
+          electronic invoices. Unfortunately, fraudsters are using these platforms for different types of malicious activities. Identifying 
+          fraudsters is often challenging for many companies due to the limitation of time and other resources. A fully automated fraud 
+          detection model can be useful, but it creates a risk of false-positive identification. This paper proposed a hybrid fraud detection 
+          framework when only a small set of labelled (fraud/non-fraud) data is available, and human input is required in the final decision-making step. 
+          This framework used a combination of unsupervised and supervised machine learning, red-flag prioritization, and an augmented AI approach containing 
+          a human-in-the-loop process. It also proposed a weighted center based on the feature importance scores for the fraud risk cluster and used it in 
+          the red-flag prioritization process. Finally, the approach is illustrated using a case study to identify fraudulent users in an invoicing platform. 
+          Our hybrid framework showed promising results in identifying fraudulent users and improving human performance when human input is required to make the final decision.
 
-    description:
-      items:
-        - item 1: value 1
-        - item 2: value 2
+          [Available Online](https://doi.org/10.1007/s10489-023-05223-x) 
 
 
 # ---------- Not after this point
