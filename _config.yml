@@ -223,13 +223,13 @@ content:
 
 
 ############# Publications ####################################
-- title: Publications # Title for the section
-  layout: list # Type of content section (list/text)
-  content:  # Indent content one level further
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:  # Indent content one level further
 
-  items:
-    - item1: Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. [Available Online](https://doi.org/10.1007/s10489-023-05223-x)
-    - item2: Wahid, D. F., & Hassini, E. (2023). User-generated short-text classification using cograph editing-based network clustering with an application in invoice categorization. Data & Knowledge Engineering; 148. [Available online](https://doi.org/10.1016/j.datak.202238)
+    items:
+      - item1: Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. [Available Online](https://doi.org/10.1007/s10489-023-05223-x)
+      - item2: Wahid, D. F., & Hassini, E. (2023). User-generated short-text classification using cograph editing-based network clustering with an application in invoice categorization. Data & Knowledge Engineering; 148. [Available online](https://doi.org/10.1016/j.datak.202238)
 
 
 
