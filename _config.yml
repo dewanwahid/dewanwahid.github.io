@@ -227,26 +227,24 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        # title: McMaster University
-        caption: 2024
-        # sub_title: Ph.D. in Computational Science and Engineering
-        # quote: >  
-        #     "Thesis: Big Data Clustering - Models and Applications"
-        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 2024
+        caption: Applied Intelligence
+        sub_title: [Available Online](https://doi.org/10.1007/s10489-023-05223-x) 
+        quote: >  
+            "Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. 54(2). 1297-1310"
+     
         description: | # this will include new lines to allow paragraphs
-          Wahid, D. F., & Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. 54(2). 1297-1310.
-          
-          **Abstract:** In this era of e-commerce, many companies are moving towards subscription-based invoicing platforms to maintain their 
-          electronic invoices. Unfortunately, fraudsters are using these platforms for different types of malicious activities. Identifying 
-          fraudsters is often challenging for many companies due to the limitation of time and other resources. A fully automated fraud 
-          detection model can be useful, but it creates a risk of false-positive identification. This paper proposed a hybrid fraud detection 
-          framework when only a small set of labelled (fraud/non-fraud) data is available, and human input is required in the final decision-making step. 
-          This framework used a combination of unsupervised and supervised machine learning, red-flag prioritization, and an augmented AI approach containing 
-          a human-in-the-loop process. It also proposed a weighted center based on the feature importance scores for the fraud risk cluster and used it in 
-          the red-flag prioritization process. Finally, the approach is illustrated using a case study to identify fraudulent users in an invoicing platform. 
-          Our hybrid framework showed promising results in identifying fraudulent users and improving human performance when human input is required to make the final decision.
+          **Summary:** In today's e-commerce landscape, many companies are adopting subscription-based invoicing platforms to manage their electronic invoices. 
+          However, these platforms are increasingly being exploited by fraudsters for various malicious activities. Identifying these fraudsters poses a significant 
+          challenge for many companies due to constraints in time and resources. While a fully automated fraud detection model can be helpful, it also carries the 
+          risk of falsely flagging legitimate transactions. This paper proposes a hybrid fraud detection framework designed for scenarios where only a small set of 
+          labeled (fraud/non-fraud) data is available, and human input is required in the final decision-making stage. The framework utilizes a combination of 
+          unsupervised and supervised machine learning, red-flag prioritization, and an augmented AI approach involving human input. It also introduces a weighted 
+          center based on the feature importance scores for the fraud risk cluster, which is used in the red-flag prioritization process. Finally, the approach is 
+          demonstrated through a case study aimed at identifying fraudulent users in an invoicing platform. Our hybrid framework has demonstrated promising results 
+          in effectively identifying fraudulent users and enhancing human decision-making when human input is integral to the final decision.
 
-          [Available Online](https://doi.org/10.1007/s10489-023-05223-x) 
+          
 
 
 # ---------- Not after this point
