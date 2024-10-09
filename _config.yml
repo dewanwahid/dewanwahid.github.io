@@ -247,6 +247,28 @@ content:
 
           [Available Online](https://doi.org/10.1007/s10489-023-05223-x)
 
+      - layout: left
+        title: Data & Knowledge Engineering
+        caption: Dewan Wahid and Elkafi Hassini
+        # sub_title: 
+        quote: >  
+            "Wahid, D. F., and Hassini, E. (2023). User-generated short-text classification using cograph editing-based network clustering with an application in 
+            invoice categorization. Data & Knowledge Engineering. 148. 102238."
+        description: | # this will include new lines to allow paragraphs
+          The rapid expansion of online business platforms across all industries generates a large amount of user-generated text data. This data includes product 
+          or service descriptions, reviews, marketing content, and financial information such as invoicing and bookkeeping. However, this data is often short, 
+          contains errors like misspellings and abbreviations, and lacks accurate categorization. It is essential for these platforms to accurately categorize 
+          this user-generated short-text data to understand their users' needs.
+
+          This paper presents a framework for classifying user-generated short-text data into appropriate categories. In the first phase, we used a method 
+          called cograph editing (CoE)-based clustering on a network of keywords extracted from the user-generated short-texts. We also developed integer 
+          linear programming (ILP) formulations for CoE on weighted networks and created a heuristic algorithm to identify clusters in large-scale networks. 
+          Finally, we applied this framework to categorize invoices in a real-world setting, and our results showed promise in accurately identifying invoice 
+          line-item categories for large-scale data.
+
+          
+          [Available Online](https://doi.org/10.1016/j.datak.2023.102238)
+
           
 
 
