@@ -233,15 +233,17 @@ content:
         quote: >  
             "Wahid, D. F., and Hassini, E. (2024). An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. 54(2). 1297-1310"
         description: | # this will include new lines to allow paragraphs
-          **Summary:** In today's e-commerce landscape, many companies are adopting subscription-based invoicing platforms to manage their electronic invoices. 
+          In today's e-commerce landscape, many companies are adopting subscription-based invoicing platforms to manage their electronic invoices. 
           However, these platforms are increasingly being exploited by fraudsters for various malicious activities. Identifying these fraudsters poses a significant 
           challenge for many companies due to constraints in time and resources. While a fully automated fraud detection model can be helpful, it also carries the 
-          risk of falsely flagging legitimate transactions. This paper proposes a hybrid fraud detection framework designed for scenarios where only a small set of 
+          risk of falsely flagging legitimate transactions. 
+          
+          This paper proposes a hybrid fraud detection framework designed for scenarios where only a small set of 
           labeled (fraud/non-fraud) data is available, and human input is required in the final decision-making stage. The framework utilizes a combination of 
           unsupervised and supervised machine learning, red-flag prioritization, and an augmented AI approach involving human input. It also introduces a weighted 
-          center based on the feature importance scores for the fraud risk cluster, which is used in the red-flag prioritization process. Finally, the approach is 
-          demonstrated through a case study aimed at identifying fraudulent users in an invoicing platform. Our hybrid framework has demonstrated promising results 
-          in effectively identifying fraudulent users and enhancing human decision-making when human input is integral to the final decision.
+          center based on the feature importance scores for the fraud risk cluster, which is used in the red-flag prioritization based Human-in-the-Loop (HITL) process. 
+          Finally, the approach is demonstrated through a case study aimed at identifying fraudulent users in an invoicing platform. Our hybrid framework has
+          demonstrated promising results in effectively identifying fraudulent users and enhancing human decision-making when human input is integral to the final decision.
 
 
           
