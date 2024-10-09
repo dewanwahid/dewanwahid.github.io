@@ -227,9 +227,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 2024
-        caption: Applied Intelligence
-        sub_title: [Available Online](https://doi.org/10.1007/s10489-023-05223-x) 
+        title: Applied Intelligence
+        caption: Dewan Wahid and Elkafi Hassini
+        sub_title: Online
         quote: >  
             "Wahid, D. F., and Hassini, E.. An augmented AI-based hybrid fraud detection framework for invoicing platforms. Applied Intelligence. 54(2). 1297-1310"
         description: | # this will include new lines to allow paragraphs
@@ -243,7 +243,8 @@ content:
           demonstrated through a case study aimed at identifying fraudulent users in an invoicing platform. Our hybrid framework has demonstrated promising results 
           in effectively identifying fraudulent users and enhancing human decision-making when human input is integral to the final decision.
 
-          
+
+          [Available Online](https://doi.org/10.1007/s10489-023-05223-x)
 
 
 # ---------- Not after this point
